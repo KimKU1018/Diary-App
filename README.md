@@ -11,3 +11,6 @@
 - UICollectionView
 - NotificationCenter
 
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-25 at 23 54 33](https://user-images.githubusercontent.com/86593582/214596500-1c1ee85f-03ac-4609-87d9-bea3d8e3a5f7.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-25 at 23 55 27](https://user-images.githubusercontent.com/86593582/214596496-c2b1bf91-e867-4859-ad9d-e94d0cd24fd9.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2023-01-25 at 23 55 31](https://user-images.githubusercontent.com/86593582/214596485-c2c2d80a-996e-43e7-bf18-bb22f3bfd6f7.png)
